@@ -14,5 +14,6 @@ Author: Vishnu
 
 6.Write a review
 
-7.Save address
+7.Add Permanent and temp address
+
 
