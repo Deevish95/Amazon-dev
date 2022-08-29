@@ -1,0 +1,12 @@
+THIS IS AMAZON CODE:
+
+Author: Vishnu
+
+1.Home page code
+
+2.Product page code
+
+3.Address code
+
+4.Payment code(UPI,Credit card,Debit card)
+
